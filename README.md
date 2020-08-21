@@ -1,4 +1,4 @@
-<img style="border-radius: 50%" src="./static/eu.png"/>
+<kbd><img src="./static/eu.png"/></kbd>
 
 # Henrico Piubello
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henricop/)](https://www.linkedin.com/in/henricop/)
